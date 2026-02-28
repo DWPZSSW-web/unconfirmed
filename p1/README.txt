@@ -1,3 +1,0 @@
-Upload images for Project 1 here.
-Recommended naming: 11.jpg, 12.mp4, 13.jpg...
-Cover image can be named 'cover.jpg' or just use the first image.
