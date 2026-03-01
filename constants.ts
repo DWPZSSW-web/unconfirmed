@@ -28,7 +28,7 @@ export const STUDIO_INFO = {
   ],
   contact: {
     email: "dwpzssw@163.com", 
-    phone: "17521630705",
+    phone: "UNCONFIRMED",
     location: "Shanghai, China",
     address: "Shanghai, China",
     xiaohongshu: "@OutsiderArt老灰"
